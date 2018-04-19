@@ -1,5 +1,7 @@
 # Youth Design and Technology Advocacy Committee 
-Project B:  Build innovative civic-technology for Youth Spaces    
+What is the YDAC? 
+
+Project B:  Build innovative civic-technology for Youth Spaces 
 # Description: 
 Advocate for youth spaces: through research, testing, and implementing a technology-based solution to a problem facing youth spaces today. (Specifics will come as team conducts and concludes research on youth space issues and settles on a project)
 We want to enhance our communities through the use of technology and design principles. Using a by community, for community approach where youth are enabled with skills to enact change with technology and design.
@@ -11,15 +13,29 @@ To understand how TD teams operate and work effectively
 Participants will be expected to bring their own laptop.
 
 # Topics: 
-Week 1: Ethics and Integrity in Technology and Design
+Week 1 Staff: Introduction to Youth Spaces (staff, programs, roles, demographic)
 
-Week 2: Diversity, Inclusion and Equal Representation in TD
+Week 2 Staff: Introduction to Municipality
 
-Week 3: Civic Engagement Part 1- TD’s place in the public domain
+Week 3 Staff: Cultural competency workshop (Indigenous, Asian, African American Etc.)
 
-Week 4: Civic Engagement Part 2 - Interacting with citizens and city
+Week 4 Staff: Introduction to equity seeking groups
 
-Week 5: Agile Processes 
+Week 5 Staff: City strategies (Poverty Reduction, Youth Engagement, TSNS etc.)
+
+Week 6 Staff: Anti-oppression training
+
+Week 7 Staff: Employment/entrepreneurship training
+
+Week 8 Commitee: Ethics and Integrity in Technology and Design
+
+Week 9 Commitee: Diversity, Inclusion and Equal Representation in TD
+
+Week 10 Commitee: Civic Engagement Part 1- TD’s place in the public domain
+
+Week 11 Commitee: Civic Engagement Part 2 - Interacting with citizens and city
+
+Week 12 Commitee: Agile Processes 
 
 # Recruitment: 
 Open House Days: 
@@ -53,6 +69,10 @@ Discussion: <slack channel>
 - All members will gain knowledge of and practise Agile processes such as Scrum and Kanban and their associated tools
 
 # Expectations: 
+- Members will have an educational background or professional experience in one or more of the following areas: Software Technology, Design, UX, Process Management or Software Architecture.
+- Members will provide their own laptop
+- Members will receive 7 weeks of staff training including equity and diversity training and municipal training, as well as 5 weeks of technology-specific training. Training will prepare members for current industry workplaces using common industry practices. 
+- Some previous technical knowledge assumed 
 
 # Facilitation Guidelines:
 
