@@ -45,18 +45,17 @@ Open House Days:
 4. Friday May 18th, 2018 York Civic Centre Council Chambers, 6:00 – 9:00pm
 5. Saturday May 19th, 2018 North York Civic Centre Council Chambers, 10:00am – 3:00pm
 
-Application: <link>
+Application: TBD
 
 # Duration:  
 
-Training: 2 hours a week for the first 5 weeks
+Training: 3 hours a week for the first 12 weeks
 
-Site Visit: 1 day 5 hours 
+Site Visit: 1 day  
 
-Project work: 6-8 hours of work a week including 3 hours meeting once a week
+Project work: 6-8 hours of work a week including 3 hours meeting once a week for 9 weeks
 
-
-Discussion: <slack channel>
+Demo Day: 1 day 
 
 # Learning Outcomes: 
 - All members will be able to identify ethical considerations in situations where Technology and Design is used
@@ -75,6 +74,8 @@ Discussion: <slack channel>
 - Some previous technical knowledge assumed 
 
 # Facilitation Guidelines:
+Discussion: ydatoronto.slack.com
+Project: https://trello.com/b/oTp41Tk4/youth-design-and-technology-advisory-committee-ydac 
 
 # Workshop Materials:
 
