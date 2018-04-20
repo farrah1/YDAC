@@ -31,7 +31,7 @@ Great way to meet other people with similar interests and a network of opportuni
 ## Projects: 
 - [Project A: Tech Programs in Spaces](./Project-A/README.md)
 - [Project B: Build innovative civic-technology for Youth Spaces](Project-B/README.md)
-- [Project C](../Project-C/README.md)
+- [Project C](/Project-C/README.md)
 
 ## Recruitment: 
 **Open House Days:**
