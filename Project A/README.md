@@ -50,9 +50,9 @@ Week 7 Staff: Employment/entrepreneurship training
 
 **Site Visit:** 1 day  
 
-**Project work:** 6-8 hours of work a week including 3 hours meeting once a week for 9 weeks
+**Planning/Running Workshops:** 6-8 hours of work a week including 3 hours meeting once a week for 9 weeks
 
-**Demo Day:** 1 day 
+**Final Demo Day:** 1 day 
 
 ## Learning Outcomes: 
 - All members will be able to identify ethical considerations in situations where Technology and Design is used
@@ -65,17 +65,10 @@ Week 7 Staff: Employment/entrepreneurship training
 - All members will gain knowledge of and practise Agile processes such as Scrum and Kanban and their associated tools
 
 ## Expectations: 
-- Members will have an educational background or professional experience in one or more of the following areas: Software Technology, Design, UX, Process Management or Software Architecture.
-- Members will provide their own laptop
-- Members will receive 7 weeks of staff training including equity and diversity training and municipal training, as well as 5 weeks of technology-specific training. Training will prepare members for current industry workplaces using common industry practices. 
-- Some previous technical knowledge assumed 
+- Committee Members will have a personal interest, educational background or professional experience in one or more of the following areas: Software Technology, Design, UX, Process Management or Software Architecture.
+- Committee Members will receive 7 weeks of staff training including equity and diversity training and municipal training, as well as 5 weeks of technology-specific training. Training will prepare members for current industry workplaces using common industry practices. 
 
 ## Facilitation Guidelines:
 **Discussion:** ydatoronto.slack.com
-
-**Project:** https://trello.com/b/oTp41Tk4/youth-design-and-technology-advisory-committee-ydac 
-
-## Workshop Materials:
-
 
 ## Course Design: 
