@@ -17,7 +17,14 @@
 
 ## 3: Discussion: Agile Processes
 
-### Objectives
+### Purpose: 
+This is a skills development workshop where we teach the cohort the processes that enables TD to work quickly and effectively - namely Agile and it’s tenets. We dig into the details of various processes and easy-to-use tools that allows to employ them. 
+
+### Topics: 
+* What’s Agile?
+* Purpose of it?
+* How Scrum works (JIRA)? 
+* How Kanban works (Trello)?
 
 ## 4: Activity
 
