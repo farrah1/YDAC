@@ -17,7 +17,15 @@
 
 ## 3: Discussion: Diversity, Inclusion and Equal Representation in TD
 
-### Objectives
+### Purpose: 
+One of the greatest issues in technology presently is the lack of diversity, inclusion and equal representation. This workshop focuses on the factors that brought the tech (and related STEM fields) to its current state, the pros/cons of diversity or lack thereof and the strategies in place to improve. 
+### Topics: 
+* What is diversity? Ethnic, socio-economic, gender, ability, health, etc
+* Movie night - watch ‘Debugging the Gender Gap’
+* Subconscious bias and why VR goggles are sexist
+* Reports and statistics regarding diversity and advantage of inclusion + disadvantage to homogeneity 
+* Negative consequences that can arise from technical innovation and the importance of diversity on technology teams when designing and testing products: example: hands-free soap dispenser
+* What are we doing to make things better? What can we do to include diversity in our work?
 
 ## 4: Activity
 
