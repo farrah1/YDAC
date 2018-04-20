@@ -1,7 +1,4 @@
-# Youth Design and Technology Advocacy Committee 
-What is the YDAC? 
-
-**Project B:  Build innovative civic-technology for Youth Spaces**
+# Project B:  Build innovative civic-technology for Youth Spaces
 
 ## Description: 
 Advocate for youth spaces: through research, testing, and implementing a technology-based solution to a problem facing youth spaces today. (Specifics will come as team conducts and concludes research on youth space issues and settles on a project)
