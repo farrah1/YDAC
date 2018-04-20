@@ -1,7 +1,7 @@
 # Youth Design and Technology Advocacy Committee 
 What is the YDAC? 
 
-Project B:  Build innovative civic-technology for Youth Spaces 
+**Project B:  Build innovative civic-technology for Youth Spaces**
 
 ## Description: 
 Advocate for youth spaces: through research, testing, and implementing a technology-based solution to a problem facing youth spaces today. (Specifics will come as team conducts and concludes research on youth space issues and settles on a project)
@@ -28,35 +28,35 @@ Week 6 Staff: Anti-oppression training
 
 Week 7 Staff: Employment/entrepreneurship training
 
-Week 8 Commitee: Ethics and Integrity in Technology and Design
+[Week 8 Commitee: Ethics and Integrity in Technology and Design](YDAC/exercise-1)
 
-Week 9 Commitee: Diversity, Inclusion and Equal Representation in TD
+[Week 9 Commitee: Diversity, Inclusion and Equal Representation in TD](YDAC/exercise-2)
 
-Week 10 Commitee: Civic Engagement Part 1- TD’s place in the public domain
+[Week 10 Commitee: Civic Engagement Part 1- TD’s place in the public domain](YDAC/exercise-3)
 
-Week 11 Commitee: Civic Engagement Part 2 - Interacting with citizens and city
+[Week 11 Commitee: Civic Engagement Part 2 - Interacting with citizens and city](YDAC/exercise-4)
 
-Week 12 Commitee: Agile Processes 
+[Week 12 Commitee: Agile Processes](YDAC/exercise-5) 
 
 ## Recruitment: 
-Open House Days: 
+**Open House Days:**
 1. Saturday May 5th, 2018 Etobicoke Civic Centre, Council Chambers, 10:00am – 3:00pm
 2. Wednesday May 9th, City Hall Council Chambers, 6:00 – 9:00pm
 3. Saturday May 12th, Scarborough Civic Centre Council Chambers, 10:00am – 3:00pm
 4. Friday May 18th, 2018 York Civic Centre Council Chambers, 6:00 – 9:00pm
 5. Saturday May 19th, 2018 North York Civic Centre Council Chambers, 10:00am – 3:00pm
 
-Application: TBD
+**Application:** TBD
 
 ## Duration:  
 
-Training: 3 hours a week for the first 12 weeks
+**Training:** 3 hours a week for the first 12 weeks
 
-Site Visit: 1 day  
+**Site Visit:** 1 day  
 
-Project work: 6-8 hours of work a week including 3 hours meeting once a week for 9 weeks
+**Project work:** 6-8 hours of work a week including 3 hours meeting once a week for 9 weeks
 
-Demo Day: 1 day 
+**Demo Day:** 1 day 
 
 ## Learning Outcomes: 
 - All members will be able to identify ethical considerations in situations where Technology and Design is used
@@ -75,9 +75,9 @@ Demo Day: 1 day
 - Some previous technical knowledge assumed 
 
 ## Facilitation Guidelines:
-Discussion: ydatoronto.slack.com
+**Discussion:** ydatoronto.slack.com
 
-Project: https://trello.com/b/oTp41Tk4/youth-design-and-technology-advisory-committee-ydac 
+**Project:** https://trello.com/b/oTp41Tk4/youth-design-and-technology-advisory-committee-ydac 
 
 ## Workshop Materials:
 
