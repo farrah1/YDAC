@@ -19,7 +19,18 @@
 
 ## 3: Discussion: Ethics and Integrity in Technology and Design
 
-### Objectives
+### Purpose: 
+This workshop is designed to provide a narrative of ethics and integrity when it comes to working in technology and design. While TD enables us to enhance the world around us, the associated risks to the environment and society are equally impactful. 
+
+### Topics:
+* Data privacy and data as a commodity
+    * Collection
+    * Use
+    * Dissemination
+    * Benefits
+    * Historical issues (infrastructure attacks and the hack that affected teddy bears)
+* Cyberbullying and social media is a major example of misuse/abuse of technology
+* Interactive simulation game of self-driving car that demonstrates ethics are a grey area and that we must be cognizant of (http://mchrbn.net/ethical-autonomous-vehicles/) 
 
 ## 4: Activity
 
