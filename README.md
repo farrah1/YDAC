@@ -29,7 +29,7 @@ An opportunity to gain an incredibly practical and valuable skill set
 Great way to meet other people with similar interests and a network of opportunities
 
 ## Projects: 
-- [Project A: Tech Programs in Spaces](../Project-A)
+- [Project A: Tech Programs in Spaces](https://github.com/farrah1/YDAC/tree/master/Project%20A)
 - [Project B: Build innovative civic-technology for Youth Spaces](../Project-B/README.md)
 - [Project C](../Project-C/README.md)
 
