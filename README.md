@@ -1,42 +1,37 @@
 # Youth Design and Technology Advocacy Committee 
-What is the YDAC? 
+## What is YDAC? 
+We, the Youth Design and Technology Committee (YDAC), want to enhance our communities through the use of technology and design principles. We take a by community, for community approach where youth are enabled with skills to enact change with technology and design. 
 
-**Project B:  Build innovative civic-technology for Youth Spaces**
+## How?
+From us, it's training workshops, examples and a curriculum that focuses on the possibilities - you don't need to be a technologist to be successful
+From them, it's developing projects, workshops, programming independently or with public and private community partners
 
-## Description: 
-Advocate for youth spaces: through research, testing, and implementing a technology-based solution to a problem facing youth spaces today. (Specifics will come as team conducts and concludes research on youth space issues and settles on a project)
-We want to enhance our communities through the use of technology and design principles. Using a by community, for community approach where youth are enabled with skills to enact change with technology and design.
-To gain a better understanding of social & ethical issues as they apply to TD (technology and design)
-To identify the value derived from using TDs as part of infrastructure and services development
-To understand how TDs  are researched, devised, planned and implemented in cities
-To understand how TD teams operate and work effectively
+## Why?
 
-Participants will be expected to bring their own laptop.
+* Technology sector is the fastest growing and has changed the world around us
+* The next generation will have grown up with an IoT connected, smart world.
+* Programming is being added to K-12 curriculums across Canada.
+* Toronto has become an overnight technology capital
+* It's cool
 
-## Topics: 
-Week 1 Staff: Introduction to Youth Spaces (staff, programs, roles, demographic)
+## Who is this for? 
+Absolutely any youth with an interest in technology: we're taking a no-barriers approach that promotes diversity.
+Anyone who sees the potential for technology, but who might not quite understand it. 
 
-Week 2 Staff: Introduction to Municipality
+## Where?
 
-Week 3 Staff: Cultural competency workshop (Indigenous, Asian, African American Etc.)
+Youth spaces and their surrounding communities but there's no reason what they develop can't be scaled across the city
 
-Week 4 Staff: Introduction to equity seeking groups
+## How to sell it
 
-Week 5 Staff: City strategies (Poverty Reduction, Youth Engagement, TSNS etc.)
+Technology work with no experience needed
+An opportunity to gain an incredibly practical and valuable skill set
+Great way to meet other people with similar interests and a network of opportunities
 
-Week 6 Staff: Anti-oppression training
-
-Week 7 Staff: Employment/entrepreneurship training
-
-[Week 8 Commitee: Ethics and Integrity in Technology and Design](exercise-1.md)
-
-[Week 9 Commitee: Diversity, Inclusion and Equal Representation in TD](exercise-2.md)
-
-[Week 10 Commitee: Civic Engagement Part 1- TD’s place in the public domain](exercise-3.md)
-
-[Week 11 Commitee: Civic Engagement Part 2 - Interacting with citizens and city](exercise-4.md)
-
-[Week 12 Commitee: Agile Processes](exercise-5.md) 
+## Projects: 
+* [Project A: Tech Programs in Spaces](YDAC/Project A/README.md)
+* [Project B: Build innovative civic-technology for Youth Spaces](YDAC/Project B/README.md)
+* [Project C](YDAC/Project C/README.md)
 
 ## Recruitment: 
 **Open House Days:**
@@ -50,37 +45,7 @@ Week 7 Staff: Employment/entrepreneurship training
 
 ## Duration:  
 
-**Training:** 3 hours a week for the first 12 weeks
+This cohort of the YDAC will run from __________, 2018 to __________, 2018. 
 
-**Site Visit:** 1 day  
-
-**Project work:** 6-8 hours of work a week including 3 hours meeting once a week for 9 weeks
-
-**Demo Day:** 1 day 
-
-## Learning Outcomes: 
-- All members will be able to identify ethical considerations in situations where Technology and Design is used
-- All members will be able to assess the fallouts and risks associated with TDs
-- All members will be able to identify specific examples of technologies that have benefited youth, citizens and city staff (not exclusive to Toronto)
-- All members will be able to enumerate the advantages of equal representation when developing TDs
-- All members will be able to identify the various categories of TDs that exist and how they’re used
-- All members will develop interpersonal skills necessary to interact with youth, citizens and city staff
-- All members will be equipped to incorporate and assess diversity and inclusion in any TD related work from planning to execution
-- All members will gain knowledge of and practise Agile processes such as Scrum and Kanban and their associated tools
-
-## Expectations: 
-- Members will have an educational background or professional experience in one or more of the following areas: Software Technology, Design, UX, Process Management or Software Architecture.
-- Members will provide their own laptop
-- Members will receive 7 weeks of staff training including equity and diversity training and municipal training, as well as 5 weeks of technology-specific training. Training will prepare members for current industry workplaces using common industry practices. 
-- Some previous technical knowledge assumed 
-
-## Facilitation Guidelines:
-**Discussion:** ydatoronto.slack.com
-
-**Project:** https://trello.com/b/oTp41Tk4/youth-design-and-technology-advisory-committee-ydac 
-
-## Workshop Materials:
-
-
-## Course Design: 
-
+## Contact:
+For more information on the YDAC, contact: 
