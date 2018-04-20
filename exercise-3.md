@@ -17,7 +17,18 @@
 
 ## 3: Discussion: Civic Engagement Part 1- TD’s place in the public domain
 
-### Objectives
+### Purpose: 
+This is the first introduction into how TD fits into civic engagement globally and within the City of Toronto.
+
+### Topics: 
+* What is Civic Technology and Design?
+* Examples of successful technology and design implementations within cities
+* How to make use of open source software - open data - and open government
+* Engaging with community partners / strategic corporate partners
+* How YDAC interacts with the city and youth
+    * Building community relationships with Youth and YRPs
+    * Understand the needs of youth of staff
+    * No assumptions or preconceived notions 
 
 ## 4: Activity
 
