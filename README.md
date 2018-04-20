@@ -29,9 +29,9 @@ An opportunity to gain an incredibly practical and valuable skill set
 Great way to meet other people with similar interests and a network of opportunities
 
 ## Projects: 
-* (Project A: Tech Programs in Spaces)[YDAC/Project A/README.md]
-* (Project B: Build innovative civic-technology for Youth Spaces)[YDAC/Project B/README.md]
-* (Project C)[YDAC/Project C/README.md]
+* [Project A: Tech Programs in Spaces](/Project A/README.md)
+* [Project B: Build innovative civic-technology for Youth Spaces](/Project B/README.md)
+* [Project C](/Project C/README.md)
 
 ## Recruitment: 
 **Open House Days:**
