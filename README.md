@@ -2,7 +2,8 @@
 What is the YDAC? 
 
 Project B:  Build innovative civic-technology for Youth Spaces 
-# Description: 
+
+## Description: 
 Advocate for youth spaces: through research, testing, and implementing a technology-based solution to a problem facing youth spaces today. (Specifics will come as team conducts and concludes research on youth space issues and settles on a project)
 We want to enhance our communities through the use of technology and design principles. Using a by community, for community approach where youth are enabled with skills to enact change with technology and design.
 To gain a better understanding of social & ethical issues as they apply to TD (technology and design)
@@ -12,7 +13,7 @@ To understand how TD teams operate and work effectively
 
 Participants will be expected to bring their own laptop.
 
-# Topics: 
+## Topics: 
 Week 1 Staff: Introduction to Youth Spaces (staff, programs, roles, demographic)
 
 Week 2 Staff: Introduction to Municipality
@@ -37,7 +38,7 @@ Week 11 Commitee: Civic Engagement Part 2 - Interacting with citizens and city
 
 Week 12 Commitee: Agile Processes 
 
-# Recruitment: 
+## Recruitment: 
 Open House Days: 
 1. Saturday May 5th, 2018 Etobicoke Civic Centre, Council Chambers, 10:00am – 3:00pm
 2. Wednesday May 9th, City Hall Council Chambers, 6:00 – 9:00pm
@@ -47,7 +48,7 @@ Open House Days:
 
 Application: TBD
 
-# Duration:  
+## Duration:  
 
 Training: 3 hours a week for the first 12 weeks
 
@@ -57,7 +58,7 @@ Project work: 6-8 hours of work a week including 3 hours meeting once a week for
 
 Demo Day: 1 day 
 
-# Learning Outcomes: 
+## Learning Outcomes: 
 - All members will be able to identify ethical considerations in situations where Technology and Design is used
 - All members will be able to assess the fallouts and risks associated with TDs
 - All members will be able to identify specific examples of technologies that have benefited youth, citizens and city staff (not exclusive to Toronto)
@@ -67,17 +68,19 @@ Demo Day: 1 day
 - All members will be equipped to incorporate and assess diversity and inclusion in any TD related work from planning to execution
 - All members will gain knowledge of and practise Agile processes such as Scrum and Kanban and their associated tools
 
-# Expectations: 
+## Expectations: 
 - Members will have an educational background or professional experience in one or more of the following areas: Software Technology, Design, UX, Process Management or Software Architecture.
 - Members will provide their own laptop
 - Members will receive 7 weeks of staff training including equity and diversity training and municipal training, as well as 5 weeks of technology-specific training. Training will prepare members for current industry workplaces using common industry practices. 
 - Some previous technical knowledge assumed 
 
-# Facilitation Guidelines:
+## Facilitation Guidelines:
 Discussion: ydatoronto.slack.com
+
 Project: https://trello.com/b/oTp41Tk4/youth-design-and-technology-advisory-committee-ydac 
 
-# Workshop Materials:
+## Workshop Materials:
 
-# Course Design: 
+
+## Course Design: 
 
