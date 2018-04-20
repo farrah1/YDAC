@@ -30,8 +30,8 @@ Great way to meet other people with similar interests and a network of opportuni
 
 ## Projects: 
 - [Project A: Tech Programs in Spaces](https://github.com/farrah1/YDAC/tree/master/Project%20A)
-- [Project B: Build innovative civic-technology for Youth Spaces](../Project-B/README.md)
-- [Project C](../Project-C/README.md)
+- [Project B: Build innovative civic-technology for Youth Spaces](https://github.com/farrah1/YDAC/tree/master/Project%20B)
+- [Project C](https://github.com/farrah1/YDAC/tree/master/Project%20C)
 
 ## Recruitment: 
 **Open House Days:**
