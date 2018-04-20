@@ -3,9 +3,9 @@
 | **Section**                                                                                    | **Length** |
 |------------------------------------------------------------------------------------------------|------------|
 | [**1: Ice Breakers and Introductions**](#1-icebreaker)                                           | 10 min     |
-| [**2: Homework Review **](#2-homework-review)                                                     | 10 min     |
-| [**3: Discussion: Civic Engagement Part 2 - Interacting with citizens and city **](discussion) | 30 min     |
-| [**4: Activity:  **](#4-activity)                                                                 | 30 min     |
+| [**2: Homework Review**](#2-homework-review)                                                     | 10 min     |
+| [**3: Discussion: Civic Engagement Part 2 - Interacting with citizens and city**](discussion) | 30 min     |
+| [**4: Activity:**](#4-activity)                                                                 | 30 min     |
 | [**5: Conclusion and Homework**](#5-conclusion)                                                   | 10 min     |
 | **Workshop length**                                                                            | 1:30 min   |
 
