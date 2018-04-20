@@ -25,13 +25,13 @@ Week 6 Staff: Anti-oppression training
 
 Week 7 Staff: Employment/entrepreneurship training
 
-[Week 8 Commitee: Ethics and Integrity in Technology and Design](YDAC/Training/exercise-1.md)
+[Week 8 Commitee: Ethics and Integrity in Technology and Design](../YDAC/Training/exercise-1.md)
 
-[Week 9 Commitee: Diversity, Inclusion and Equal Representation in TD](YDAC/Training/exercise-2.md)
+[Week 9 Commitee: Diversity, Inclusion and Equal Representation in TD](../YDAC/Training/exercise-2.md)
 
-[Week 10 Commitee: Civic Engagement Part 1- TD’s place in the public domain](YDAC/Training/exercise-3.md)
+[Week 10 Commitee: Civic Engagement Part 1- TD’s place in the public domain](../YDAC/Training/exercise-3.md)
 
-[Week 11 Commitee: Civic Engagement Part 2 - Interacting with citizens and city](YDAC/Training/exercise-4.md)
+[Week 11 Commitee: Civic Engagement Part 2 - Interacting with citizens and city](../Training/exercise-4.md)
 
 [Week 12 Commitee: Agile Processes](YDAC/Training/exercise-5.md) 
 
