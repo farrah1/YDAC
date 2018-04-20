@@ -17,7 +17,14 @@
 
 ## 3: Discussion: Civic Engagement Part 2 - Interacting with citizens and city
 
-### Objectives
+### Purpose: 
+This is a deeper dive into civic engagement with respect to technology. We discuss a variety of approaches. 
+
+### Topics: 
+* Co-design (how it differs from Human-Cantered and User-Centered Design)
+* Participatory design (Participatory Action Research)
+* Other Civic Technology Patterns/Principles: (eg: Build With, Not For)
+* Community approaches, bristol approach (UK), Sidewalk Toronto 
 
 ## 4: Activity
 
