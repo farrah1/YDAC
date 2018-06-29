@@ -34,16 +34,6 @@ Week 7 Staff: Employment/entrepreneurship training
 
 [Week 12 Commitee: Agile Processes](../Training/exercise-5.md) 
 
-## Recruitment: 
-**Open House Days:**
-1. Saturday May 5th, 2018 Etobicoke Civic Centre, Council Chambers, 10:00am – 3:00pm
-2. Wednesday May 9th, City Hall Council Chambers, 6:00 – 9:00pm
-3. Saturday May 12th, Scarborough Civic Centre Council Chambers, 10:00am – 3:00pm
-4. Friday May 18th, 2018 York Civic Centre Council Chambers, 6:00 – 9:00pm
-5. Saturday May 19th, 2018 North York Civic Centre Council Chambers, 10:00am – 3:00pm
-
-**Application:** TBD
-
 ## Duration:  
 
 **Training:** 3 hours a week for the first 12 weeks
