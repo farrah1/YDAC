@@ -12,7 +12,7 @@ From them, it's developing projects, workshops, programming independently or wit
 * The next generation will have grown up with an IoT connected, smart world.
 * Programming is being added to K-12 curriculums across Canada.
 * Toronto has become an overnight technology capital
-* It's cool
+* It's cool!
 
 ## Who is this for? 
 Absolutely any youth with an interest in technology: we're taking a no-barriers approach that promotes diversity.
@@ -33,19 +33,9 @@ Great way to meet other people with similar interests and a network of opportuni
 - [Project B: Build innovative civic-technology for Youth Spaces](https://github.com/farrah1/YDAC/tree/master/Project%20B)
 - [Project C](https://github.com/farrah1/YDAC/tree/master/Project%20C)
 
-## Recruitment: 
-**Open House Days:**
-1. Saturday May 5th, 2018 Etobicoke Civic Centre, Council Chambers, 10:00am – 3:00pm
-2. Wednesday May 9th, City Hall Council Chambers, 6:00 – 9:00pm
-3. Saturday May 12th, Scarborough Civic Centre Council Chambers, 10:00am – 3:00pm
-4. Friday May 18th, 2018 York Civic Centre Council Chambers, 6:00 – 9:00pm
-5. Saturday May 19th, 2018 North York Civic Centre Council Chambers, 10:00am – 3:00pm
-
-**Application:** TBD
-
 ## Duration:  
 
-This cohort of the YDAC will run from __________, 2018 to __________, 2018. 
+This cohort of the YDAC will run from June 29th, 2018 to __________, 2018. 
 
 ## Contact:
-For more information on the YDAC, contact: 
+For more information on the YDAC, contact: Farrah Amador-Mughal or Adam El-Masri
