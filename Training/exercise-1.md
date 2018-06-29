@@ -2,11 +2,11 @@
 
 | **Section**                                                                        | **Length** |
 |------------------------------------------------------------------------------------|------------|
-| [**1: Ice Breakers and Introductions**](#1-icebreaker)                               | 10 min     |
-| [**2: Introduction to the YDAC**](intro)                                          | 10 min     |
-| [**3: Discussion: Ethics and Integrity in Technology and Design**](discussion)    | 30 min     |
-| [**4: Activity:**](#4-activity)                                                     | 30 min     |
-| [**5: Conclusion and Homework**](#5-conclusion)                                       | 10 min     |
+| [**1: Ice Breakers and Introductions**]                              | 10 min     |
+| [**2: Introduction to the YDAC**]                                  | 10 min     |
+| [**3: Discussion: Ethics and Integrity in Technology and Design**]   | 30 min     |
+| [**4: Activity:**]                                                     | 30 min     |
+| [**5: Conclusion and Homework**]                                       | 10 min     |
 | **Workshop length**                                                                | 1:30 min   |
 
 ## 1: Ice Breaker
